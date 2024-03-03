@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 ![](https://img.shields.io/badge/any_text-you_like-blue)
 -->
-🌎 Geologist, Remote Sensing Scientist, and GIS Specialist
-💡 Loves to share advanced knowledge to the general public
-💭 Always thinking, always creating
+- 🌎 Geologist, Remote Sensing Scientist, and GIS Specialist
+- 💡 Loves to share advanced knowledge to the general public
+- 💭 Always thinking, always creating
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E&labelColor=808080)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB&labelColor=808080)
