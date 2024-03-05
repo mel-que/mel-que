@@ -1,3 +1,5 @@
+![gisbanner-01](https://github.com/mel-que/mel-que/assets/158233161/2c45dd01-f3d9-42fa-9d47-da9eb0f0cf69)
+
 ### Hi there 👋
 
 <!--
@@ -25,9 +27,16 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 ![](https://img.shields.io/badge/any_text-you_like-blue)
 -->
-- 🌎 I'm a Geologist, Remote Sensing Scientist, and GIS Specialist
-- 💡 I loves sharing advanced knowledge to the general public
-- 💭 I'm always thinking, always creating
+I am Melinda! 
+I am looking for full-time GIS and Remote Sensing-related positions.
+
+I am currently working on using Landsat to monitor patterns of vegetation health for wetlands.
+
+🌎 I'm a Geologist, Remote Sensing Scientist, and GIS Specialist.
+
+💡 I love sharing advanced knowledge to the general public.
+
+💭 I'm always thinking, always creating.
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E&labelColor=808080)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB&labelColor=808080)
