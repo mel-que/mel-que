@@ -40,10 +40,12 @@ I am looking for full-time GIS and Remote Sensing-related positions.
 
 💭 I'm always thinking, always creating.
 
+Languages I am familiar with:
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E&labelColor=808080)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB&labelColor=808080)
 ![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=Matlab&color=3776AB&labelColor=808080)
 
+Applications I am familiar with:
 ![](https://img.shields.io/badge/App-Google_Earth_Engine-informational?style=flat&logo=googleearthengine&color=4285F4&labelColor=808080)
 ![](https://img.shields.io/badge/App-ArcGIS-informational?style=flat&logo=arcGIS&color=2C7AC3&labelColor=808080)
 ![](https://img.shields.io/badge/App-WordPress-informational?style=flat&logo=wordPress&color=21759B&labelColor=808080)
