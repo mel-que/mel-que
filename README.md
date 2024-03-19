@@ -30,11 +30,13 @@ Here are some ideas to get you started:
 I am Melinda! 
 I am looking for full-time GIS and Remote Sensing-related positions.
 
-I am currently working on using Landsat to monitor patterns of vegetation health for wetlands.
+🔭 I am currently working on using Landsat to monitor patterns of vegetation health for wetlands.
 
 🌎 I'm a Geologist, Remote Sensing Scientist, and GIS Specialist.
 
 💡 I love sharing advanced knowledge to the general public.
+
+🌱 I’m currently learning R and QGIS.
 
 💭 I'm always thinking, always creating.
 
