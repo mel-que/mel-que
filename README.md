@@ -32,9 +32,9 @@ I am looking for full-time GIS and Remote Sensing-related positions.
 
 🔭 I am currently working on using Landsat to monitor patterns of vegetation health for wetlands.
 
-🌎 I'm a Geologist, Remote Sensing Scientist, and GIS Specialist.
+🌎 I'm a Geologist/Environmental Scientist, Remote Sensing Scientist, and GIS Specialist.
 
-💡 I love sharing advanced knowledge to the general public.
+💡 I love teaching and sharing advanced knowledge to anyone interested in learning.
 
 🌱 I’m currently learning R and QGIS.
 
@@ -50,6 +50,6 @@ Applications I am familiar with:
 ![](https://img.shields.io/badge/App-ArcGIS-informational?style=flat&logo=arcGIS&color=2C7AC3&labelColor=000000)
 ![](https://img.shields.io/badge/App-WordPress-informational?style=flat&logo=wordPress&color=21759B&labelColor=000000)
 
-Please see examples of my work in the respository "LousianaCoastalWetlands."
+Please see examples of my code and visualization products in the respository "LousianaCoastalWetlands."
 
 
