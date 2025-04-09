@@ -44,11 +44,19 @@ Languages I am familiar with:
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E&labelColor=000000)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB&labelColor=000000)
 ![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=Matlab&color=3776AB&labelColor=000000)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&color=E34F26&labelColor=000000)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&color=663399&labelColor=000000)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&color=4169E1&labelColor=000000)
+![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&color=7952B3&labelColor=000000)
+
+
 
 Applications I am familiar with:
 ![](https://img.shields.io/badge/App-Google_Earth_Engine-informational?style=flat&logo=googleearthengine&color=4285F4&labelColor=000000)
 ![](https://img.shields.io/badge/App-ArcGIS-informational?style=flat&logo=arcGIS&color=2C7AC3&labelColor=000000)
 ![](https://img.shields.io/badge/App-WordPress-informational?style=flat&logo=wordPress&color=21759B&labelColor=000000)
+![](https://img.shields.io/badge/App-Tableau-informational?style=flat&logo=tableau&color=21759B&labelColor=000000)
+
 
 Please see examples of my code and visualization products in the respository "LousianaCoastalWetlands."
 
